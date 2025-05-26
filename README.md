@@ -4,6 +4,13 @@
 
 ---
 
+## Features
+- Real-time stock data fetching with Alpha Vantage API  
+- Data processing with Pandas and Statsmodels  
+- Predictive modeling using Scikit-Learn  
+- Designed for accuracy and speed  
+
+
 ##  Overview
 
 This project is a **high-quality real-time stock market prediction system** developed using Python. It fetches live stock data from the Alpha Vantage API, processes it with Pandas and Statsmodels, and builds predictive models using Scikit-Learn.
